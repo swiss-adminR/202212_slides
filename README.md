@@ -11,7 +11,8 @@ Slides, scripts and videos of the [autumn meetup 2022](https://www.meetup.com/ad
 Renger van Nieuwkoop, FSO
 
 - [Slides](https://github.com/swiss-adminR/202212_slides/blob/main/adminR.pdf)
-- [Video]()
+- [Video Slides](https://github.com/swiss-adminR/202212_slides/blob/main/r-at-the-fso.mp4?raw=true)
+- [Video Questions](https://github.com/swiss-adminR/202212_slides/blob/main/questions.mp4?raw=true)
 
 
 ### Metadata Access Automation
@@ -20,11 +21,13 @@ Fabian Santi, FSO
 
 - [Slides](https://github.com/swiss-adminR/202212_slides/blob/main/Präsentation%20AdminR%20fso_metadata%202022_EN.pdf)
 - [R-Skript](https://github.com/swiss-adminR/202212_slides/blob/main/fabian_santi._script.R)
-- [Video](https://github.com/swiss-adminR/202212_slides/blob/main/api.mp4)
+- [Video](https://github.com/swiss-adminR/202212_slides/blob/main/api.mp4?raw=true)
+
 
 ### Shiny Applications at VBZ
 
 
 Yana Neuenschwander, VBZ Zürich
 
-- [Video]()
+- [Video Slides](https://github.com/swiss-adminR/202212_slides/blob/main/vbz-slides.mp4?raw=true)
+- [Video Demo](https://github.com/swiss-adminR/202212_slides/blob/main/vbz-demo.mp4?raw=true)
