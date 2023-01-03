@@ -2,14 +2,15 @@
 
 Slides, scripts and videos of the [autumn meetup 2022](https://www.meetup.com/adminR/events/288608888/) hosted by the Swiss Federal Statistical Office in Neuchâtel.
 
-The full video of the event is available [here]().
+### Intro
 
+- [Audio](https://github.com/swiss-adminR/202212_slides/blob/main/intro.m4a?raw=true)
 
 ### R at the Swiss Federal Statistical Office
 
 Renger van Nieuwkoop, FSO
 
-- [Slides]()
+- [Slides](https://github.com/swiss-adminR/202212_slides/blob/main/adminR.pdf)
 - [Video]()
 
 
@@ -17,9 +18,9 @@ Renger van Nieuwkoop, FSO
 
 Fabian Santi, FSO
 
-- [Slides]()
-- [R-Skript]()
-- [Video]()
+- [Slides](https://github.com/swiss-adminR/202212_slides/blob/main/Präsentation%20AdminR%20fso_metadata%202022_EN.pdf)
+- [R-Skript](https://github.com/swiss-adminR/202212_slides/blob/main/fabian_santi._script.R)
+- [Video](https://github.com/swiss-adminR/202212_slides/blob/main/api.mp4)
 
 ### Shiny Applications at VBZ
 
