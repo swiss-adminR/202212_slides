@@ -20,7 +20,7 @@ Renger van Nieuwkoop, FSO
 Fabian Santi, FSO
 
 - [Slides](https://github.com/swiss-adminR/202212_slides/blob/main/Präsentation%20AdminR%20fso_metadata%202022_EN.pdf)
-- [R-Skript](https://github.com/swiss-adminR/202212_slides/blob/main/fabian_santi._script.R)
+- [R-Script](https://github.com/swiss-adminR/202212_slides/blob/main/fabian_santi._script.R)
 - [Video](https://github.com/swiss-adminR/202212_slides/blob/main/api.mp4?raw=true)
 
 
